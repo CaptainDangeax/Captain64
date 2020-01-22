@@ -1,2 +1,2 @@
 # Captain64
-A 8 bit homebrew computer
+A 8 bits homebrew computer
